@@ -40,3 +40,5 @@ int main(){
 
 // alphanum check
 // identify > replace for each alt for all letters
+// should have the option for the user to enter their preferred subs
+// show a list of ur subs in a GUI

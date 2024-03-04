@@ -38,7 +38,8 @@ int main(){
     return 0;
 }
 
-// alphanum check
+// alphanum check on input
 // identify > replace for each alt for all letters
 // should have the option for the user to enter their preferred subs
 // show a list of ur subs in a GUI
+// check if i can get access to the actual API to check for availability
